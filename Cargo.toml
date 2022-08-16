@@ -1,9 +1,11 @@
 [package]
 name = "fabricgen"
+description = "A quick and dirty Minecraft Fabric mod generator."
 version = "0.1.0"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+license = "MIT"
+homepage = "https://github.com/BlueStaggo/fabricgen"
+repository = "https://github.com/BlueStaggo/fabricgen"
 
 [dependencies]
 colored = "2"
